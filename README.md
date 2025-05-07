@@ -1,7 +1,7 @@
 # titan-os-test
 
 ## Quick start
-- `npm run install`
+- `npm install`
 - `npm run dev`
 
 ## Testing
